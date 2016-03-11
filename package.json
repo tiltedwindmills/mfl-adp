@@ -1,0 +1,15 @@
+{
+  "name": "adp",
+  "version": "1.0.0",
+  "description": "Average Draft Position Calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "text-table": "^0.2.0"
+  }
+}
